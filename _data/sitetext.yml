@@ -82,9 +82,10 @@ en: &DEFAULT_EN
         align: right
     end: "Our <br> Story"
 
-  rsvp:
+  about:
     text: <script src="{{ base.url | prepend: site.url }}/assets/rsvp.js"></script>
-
+    section: rsvp
+ 
   footer:
     legal: "Privacy Policy"
     social:
