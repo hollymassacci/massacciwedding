@@ -83,7 +83,7 @@ en: &DEFAULT_EN
     end: "Our <br> Story"
 
   rsvp:
-    script: <script src="{{ base.url | prepend: site.url }}/assets/rsvp.js"></script>
+    html: <script src="{{ base.url | prepend: site.url }}/assets/rsvp.js"></script>
 
   footer:
     legal: "Privacy Policy"
