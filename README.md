@@ -1,3 +1,24 @@
+# Purpose
+This repository holds the wedding website for Steven and Holly's wedding in October 2023. 
+
+## Goals
+1. Provide information about the wedding
+    *   Date, time and location of ceremony and reception
+    *   Timeline for the day
+    *   Gift registry/wishing well
+2. Our story
+    *   Photos
+    *   Brief description of how we met etc
+3. RSVP form
+4. Tips
+    *   Transport suggestions
+    *   Where to stay
+
+
+
+# Below is the retained information from the theme template repository
+
+
 # [Agency Jekyll Theme](https://github.com/raviriley/agency-jekyll-theme) Starter Template
 [![RubyGems Downloads](https://img.shields.io/gem/dt/jekyll-agency.svg)](https://rubygems.org/gems/jekyll-agency)
 [![LICENSE](https://img.shields.io/badge/license-MIT-lightgrey.svg)](https://github.com/raviriley/agency-jekyll-theme/blob/master/LICENSE.txt)
