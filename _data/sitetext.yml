@@ -83,7 +83,7 @@ en: &DEFAULT_EN
     end: "Our <br> Story"
 
   about:
-    text: <script src="{{ base.url | prepend: site.url }}/assets/rsvp.js"></script>
+    text: "<script src="{{ base.url | prepend: site.url }}/assets/rsvp.js"></script>"
     section: rsvp
  
   footer:
