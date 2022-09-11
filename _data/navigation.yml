@@ -11,12 +11,12 @@
 # -----------------
 en: &DEFAULT_EN
   nav:
-    - title: "Welcome"
-      section: welcome
+    - title: "On the day"
+      section: ontheday
+    - title: "Our story"
+      section: about
     - title: "Our story"
       section: ourstory
-    - title: "Timeline"
-      section: timeline
     - title: "Wishing well"
       section: wishingwell
     - title: "RSVP"
