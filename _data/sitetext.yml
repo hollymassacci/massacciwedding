@@ -83,7 +83,7 @@ en: &DEFAULT_EN
     end: "Our <br> Story"
 
   about:
-    text: "rsvp.md
+    text: "rsvp.md"
     section: rsvp
  
   footer:
