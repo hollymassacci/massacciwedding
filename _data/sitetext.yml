@@ -16,22 +16,20 @@ en: &DEFAULT_EN
     button: RSVP
     buttonlink: "#rsvp"
 
-  timeline:
-    title: "Timeline"
+  ontheday:
+    title: "Timeline on the day"
     text: "On the day"
     section: ontheday
-    # left is the default
-    #start_align: "left"
     events:
       - title: "Ceremony"
-        year: "October 2023"
+        year: "2023"
         desc: "The day begins at the Adelaide Botanic Gardens with a ceremony on the lawns 
         looking onto the lake. Enter from the main entrance on North Terrace, follow the path straight down turning left at
         the fork and the ceremony location will be on your right. Please arrive from 1:45pm for a 2pm sharp start."
         image: assets/img/timeline/ceremony.jpg
         alt:
       - title: "Reception"
-        year: "October 2023"
+        year: "2024"
         desc: "The ceremony will be followed by a reception in The Conservatory at Ayers House.
         Arrive from 5:30pm for pre-dinner canapes, followed by a three-course sit down dinner.
         For the period of time between the ceremony and reception take the opportunity to explore the 
@@ -77,7 +75,7 @@ en: &DEFAULT_EN
     end: "Our <br> Story"
 
   rsvp:
-    text: "../rsvp.md"
+    html: "../rsvp.md"
     section: rsvp
  
   footer:
