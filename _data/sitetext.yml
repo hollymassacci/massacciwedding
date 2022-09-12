@@ -26,7 +26,7 @@ en: &DEFAULT_EN
         desc: "The day begins at the Adelaide Botanic Gardens with a ceremony on the lawns 
         looking onto the lake. Enter from the main entrance on North Terrace, follow the path straight down turning left at
         the fork and the ceremony location will be on your right. Please arrive from 1:45pm for a 2pm sharp start."
-        image: assets/img/timeline/ceremony.jpg
+        image: assets/img/ceremony.jpg
         alt:
       - title: "Reception"
         year: "2024"
@@ -34,7 +34,7 @@ en: &DEFAULT_EN
         Arrive from 5:30pm for pre-dinner canapes, followed by a three-course sit down dinner.
         For the period of time between the ceremony and reception take the opportunity to explore the 
         botanic gardens or head up to Rundle Street for a coffee."
-        image: assets/img/timeline/reception.png
+        image: assets/img/reception.png
         alt:
         # you can enforce the alignment
         align: right
@@ -73,10 +73,6 @@ en: &DEFAULT_EN
         # you can enforce the alignment
         align: right
     end: "Our <br> Story"
-
-  rsvp:
-    html: "../rsvp.md"
-    section: rsvp
  
   footer:
     legal: "Privacy Policy"
