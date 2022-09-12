@@ -16,7 +16,7 @@ en: &DEFAULT_EN
     button: RSVP
     buttonlink: "#rsvp"
 
-  ontheday:
+  timeline:
     title: "Timeline"
     text: "On the day"
     section: ontheday
@@ -41,12 +41,6 @@ en: &DEFAULT_EN
         # you can enforce the alignment
         align: right
     end: "Be Part <br> of Our <br> Story!"
- 
-  about:
-    title: "About Us"
-    text: "our story"
-    body: "Take a trip down memory lane as we look at how we got to where we are."
-    section: about
 
   timeline:
     title: "Our Story"
@@ -82,8 +76,8 @@ en: &DEFAULT_EN
         align: right
     end: "Our <br> Story"
 
-  about:
-    text: rsvp.md
+  rsvp:
+    text: "../rsvp.md"
     section: rsvp
  
   footer:
