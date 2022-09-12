@@ -16,7 +16,7 @@ en: &DEFAULT_EN
     button: RSVP
     buttonlink: "#rsvp"
 
-  ontheday:
+  timeline:
     title: "Timeline"
     text: "On the day"
     section: ontheday
