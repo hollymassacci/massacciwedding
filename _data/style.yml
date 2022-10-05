@@ -4,5 +4,5 @@ white: "#FF0000"
 black: "#000"
 
 #Image Customization
-header-image: "../img/hs-portrait.jpg"
+header-image: "assets/img/weddingwebsitebanner.svg"
 contact-image: "../img/map-image.png"
