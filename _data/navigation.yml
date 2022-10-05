@@ -11,18 +11,8 @@
 # -----------------
 en: &DEFAULT_EN
   nav:
-    - title: "On the day"
-      section: ontheday
-    - title: "Our story"
-      section: about
     - title: "Our story"
       section: ourstory
-    - title: "Wishing well"
-      section: wishingwell
-    - title: "RSVP"
-      section: rsvp
-    - title: "Tips"
-      section: tips
     - title: "Theme Source"
       url: https://github.com/raviriley/agency-jekyll-theme/
 en-US:
