@@ -11,45 +11,25 @@
 # -----------------
 en: &DEFAULT_EN
 
-  ontheday:
-    title: "Timeline on the day"
-    text: ontheday.md
-    section: ontheday
-    
-
   timeline:
     title: "Our Story"
     section: ourstory
     # left is the default
     #start_align: "left"
     events:
-      - title: "First met"
-        year: "February 2015"
-        desc: "Holly and Steven first met at Larsen's first ever gig at The Jade. They would bump into each other at gigs for the next year or so."
-        image: assets/img/timeline/1.jpg
+      - title: "The Ceremony"
+        year: "07 October 2023"
+        desc: "The day begins at the Adelaide Botanic Gardens with a ceremony on the lawns looking onto the lake. Enter from the main entrance on North Terrace, follow the path straight down turning left at the fork and the ceremony location will be on your right. Please arrive at 2:30pm for a 3pm sharp start"
+        image: assets/img/timeline/ceremony.jpg
         alt:
-      - title: "First kiss"
-        year: "April 2016"
-        desc: "After a fair few Sailor Jerrys, they shared their first kiss at Larsen's EP launch at the Fat Controller."
-        image: assets/img/timeline/2.jpg
-        alt:
-      - title: "Make it official"
-        year: "July 2016"
-        desc: "After a few months of seeing each other and acting like a couple, they finally made it official."
-        image: assets/img/timeline/3.jpg
-        alt: image alt text
-      - title: "Engagement"
-        year: "January 2021"
-        desc: "As they wrapped up the trip of a lifetime travelling around Tasmania they had a quiet night drinking Boags red on their
-        friends farm in country Tassie. Steven took Holly out for a walk to see the most spectacular stars Holly had ever seen. They talked
-        about their life and future together, reflected on the favourite moments from the trip and Steven spoke about how happy he is and said some
-        beautiful things about the relationship and life they've built together when he got down on one knee and asked Holly to marry him. It was a 
-        complete surprise to Holly (despite the fact that she accidentally found the ring box the week before) but was the easier yes of her life."
-        image: assets/img/engagement.jpg
+      - title: "The Reception"
+        year: "07 October 2023"
+        desc: "The ceremony will be followed by a reception in The Conservatory at Ayers House. Arrive from 5:30pm for pre-dinner canapes, followed by a three-course sit down dinner. During the time between the ceremony and reception take the opportunity to explore the botanic gardens or head up to Rundle Street for a coffee."
+        image: assets/img/timeline/reception.png
         alt:
         # you can enforce the alignment
         align: right
-    end: "Our <br> Story"
+    end: ""
  
   footer:
     legal: "Privacy Policy"
