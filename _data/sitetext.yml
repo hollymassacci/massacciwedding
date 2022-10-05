@@ -10,8 +10,6 @@
 # English (default)
 # -----------------
 en: &DEFAULT_EN
-  header:
-    image: assets/img/weddingwebsitebanner.svg
 
   ontheday:
     title: "Timeline on the day"
