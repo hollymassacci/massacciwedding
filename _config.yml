@@ -22,7 +22,7 @@ email      : hollyanitamartin@gmail.com #this is also the email contact forms wi
 description: "Wedding website for the wedding of Holly Martin and Steven Massacci"
 author     : Holly Martin
  logo:     #optional, defaults to site title
-   path: assets/img/mc-circle.png
+   path: assets\img\mc-circle.png
    height: 60 #height in px, defaults to 52px
 
 locale: "en-AU" # See available languages in _data/sitetext.yml
