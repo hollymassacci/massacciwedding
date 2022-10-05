@@ -20,7 +20,7 @@ en: &DEFAULT_EN
       - title: "The Ceremony"
         year: "07 October 2023"
         desc: "The day begins at the Adelaide Botanic Gardens with a ceremony on the lawns looking onto the lake. Enter from the main entrance on North Terrace, follow the path straight down turning left at the fork and the ceremony location will be on your right. Please arrive at 2:30pm for a 3pm sharp start"
-        image: assets/img/timeline/ceremony.jpg
+        image: assets/img/timeline/ceremony.png
         alt:
       - title: "The Reception"
         year: "07 October 2023"
