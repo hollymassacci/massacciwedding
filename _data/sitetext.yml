@@ -11,10 +11,7 @@
 # -----------------
 en: &DEFAULT_EN
   header:
-    title: Welcome to Steven & Holly's wedding website!
-    text: We look forward to celebrating our special day with you. See below for details about the day.
-    button: RSVP
-    buttonlink: "#rsvp"
+    image: assets/img/weddingwebsitebanner.svg
 
   ontheday:
     title: "Timeline on the day"
