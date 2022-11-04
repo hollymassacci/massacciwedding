@@ -34,7 +34,7 @@ en: &DEFAULT_EN
   footer:
     legal: "Privacy Policy"
     social:
-      - url: https://github.com/hollyanitamartin/massacciwedding
+      - url: https://github.com/hollymassacci/massacciwedding
         icon: "fab fa-github"
 en-US:
   <<: *DEFAULT_EN
