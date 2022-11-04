@@ -12,8 +12,8 @@
 en: &DEFAULT_EN
 
   timeline:
-    title: "Our Story"
-    section: ourstory
+    title: "On the day"
+    section: ontheday
     # left is the default
     #start_align: "left"
     events:
