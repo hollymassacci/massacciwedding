@@ -1,1 +1,7 @@
- <script src="assets/rsvp.js"></script>
+---
+wufoo:
+  username: massacciwedding
+  code: h6x9r2
+  height: 500
+title: RSVP
+---
