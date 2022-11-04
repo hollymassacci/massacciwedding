@@ -30,6 +30,9 @@ en: &DEFAULT_EN
         # you can enforce the alignment
         align: right
     end: ""
+   post:
+    title: "RSVP"
+    section: rsvp
  
   footer:
     legal: "Privacy Policy"
