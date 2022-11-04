@@ -13,6 +13,8 @@ en: &DEFAULT_EN
   nav:
     - title: "On the day"
       section: ontheday
+    - title: "RSVP"
+      section: rsvp
     - title: "Theme Source"
       url: https://github.com/raviriley/agency-jekyll-theme/
 en-US:
