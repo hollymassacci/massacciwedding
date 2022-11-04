@@ -1,7 +1,6 @@
 ---
-wufoo:
-  username: massacciwedding
-  code: h6x9r2
-  height: 500
 title: RSVP
+section: rsvp
 ---
+
+[Click here to RSVP](https://massacciwedding.wufoo.com/forms/rsvp-to-steven-hollys-wedding/)
