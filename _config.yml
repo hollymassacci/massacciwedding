@@ -19,7 +19,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 
 title      : Steven & Holly's Wedding
 email      : hollyanitamartin@gmail.com #this is also the email contact forms will go to
-description: "Wedding website for the wedding of Holly Martin and Steven Massacci"
+description: "RSVP website for the wedding of Holly Martin and Steven Massacci"
 author     : Holly Martin
 
 locale: "en-AU" # See available languages in _data/sitetext.yml
@@ -34,7 +34,7 @@ markdown: kramdown
 
 # Uncomment following line to use Formspree form ID based URL instead of email based URL
 # Details: https://help.formspree.io/hc/en-us/articles/360017735154-How-to-prevent-spam
-# formspree_form_path: "f/a_form_id"
+formspree_form_path: "f/xaykrodo"
 
 plugins:
   - jekyll-remote-theme
