@@ -31,10 +31,6 @@ en: &DEFAULT_EN
         align: right
     end: ""
   
-  services:
-    title: "RSVP"
-    section: rsvp
-  
   footer:
     legal: "Privacy Policy"
     social:
