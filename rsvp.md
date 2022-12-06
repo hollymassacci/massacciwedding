@@ -1,8 +1,10 @@
 ---
+layout: page
 title: RSVP
 section: rsvp
-layout: home
 ---
+
+This is the RSVP section
 
 [Click here to RSVP](https://massacciwedding.wufoo.com/forms/rsvp-to-steven-hollys-wedding/)
 
